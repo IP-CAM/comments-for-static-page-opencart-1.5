@@ -1,7 +1,7 @@
-# comments-for-static-page-opencart-1.5
-<h1>Комментарии к статьям - модуль для Opencart 1.5</h1>
-<h3>Install</h3>
-Распаковать с заменой файлов.<br />
-Создать страницу для комментариев в разделе "Страницы".<br />
-Добавить схему Название: Комментарии, Путь: information/comments (Система - Дизайн - Схемы)<br />
-Создать страницу в Каталог-Страницы со схемой Комментарии
+# COMMENTS-FOR-STATIC-PAGE-OPENCART-1.5
+<H1> Comments on Articles - Module for OpenCart 1.5 </ H1>
+<H3> Install </ h3>
+Unpack with replacing files. <br />
+Create a page for comments in the "Pages" section. <br />
+Add Schema Title: Comments, Path: Information / Comments (System - Design - Schemes) <br />
+Create a page in page catalog with a comment scheme 
